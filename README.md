@@ -1,68 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GoStack](https://camo.githubusercontent.com/8c13dc2618dbd7f76d1d574350b98fdee1335ce5/68747470733a2f2f726f636b6574736561742d63646e2e73332d73612d656173742d312e616d617a6f6e6177732e636f6d2f626f6f7463616d702d6865616465722e706e67)
 
-## Available Scripts
+# 🚀 RepositoryGitHub
 
-In the project directory, you can run:
+Projeto do Quinto Módulo do Bootcamp GoStack. O Projeto consiste em criar um sistema web onde o usuário informa o git e o projeto que deseja adicionar na aplicação, posteriormente quando o usuário clicar no link do repositório adicionar irá para uma tela com as issues do mesmo.
 
-### `yarn start`
+## Tecnologias
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Front-end: ReactJs
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Para rodar a aplicação
 
-### `yarn test`
+Execute npm install para instalar as dependências.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Rode npm start para que inicie a aplicação na porta 3000.
 
-### `yarn build`
+### Demonstração
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Tela Inicial**
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![Tela Inicial](https://lh3.googleusercontent.com/PvyMd83DgqBvc5uFvMuY9QcTOmydH76m6E1hgdAZBxHCu1zHlsK1hpxQpzFELfQJzkni56HLZm5crIdK_abelJ6XjB_JcfPscrPNltU9G68vV-DT6wBi6tQhIBqFIwy6m3NIzvSLx335VtFsgaqzxlc51RjP7BbZFB3ebTQphJXzzmY2AMsSZk2qLZaASwF2npvlQwCtAsi4Lt66VuL0p0sEQdfJuugFTc8HgX_NFnHE1yD9pByxIEg1hRBYQy7KrymwenPTOlfeaAa9VZyfl87yk4f2bkotwPI9IFDPBdLkKTgsO0U2rG068qjQAMi6UvPpcyT7YyMpYymhjjMP0HsliAVvtMGi62v6gL4_5Xr3mijvtb8kMkaNICtiS84eLgjPxjK5cQL7pJk8cpii0c7Tw5yDI_lTQoelEMQtTAg1r7P3QgLFaC7c1zOiH9TcFm9_ZZ55Z0HJlGOGOK8q64I4uxy7Ki7V4Rs-GMrBMvjAP4nYhEwEtGXVw9nsP_iBPque83wwYgqo0Fy1DjyC1VE6Si1cqGU3QmiMj9CCY_3wyXet2poeBdlgdpwTv-01TRfak66d4lVg-GaZEL6Oz-plkQ0dniCuHGmLFpMGC5f53-wdfbKvw79CqqS5YF83NkAZucZje_5ufNyYHAywgpWWVIxEINerQh-sd5wJjM0DXYutbdnMcCMlhfKp=w1137-h637-no?authuser=0)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Tela Issues**
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![Tela Issues](https://lh3.googleusercontent.com/_5dbaNuuP0w6cYCy7ZH1c6MPELlj6vL5oTPuqKhDBGy9Q0r0FLeq1OX8lFIIpR9rojouNcnMaJD5PhBSccrzL_nQ8tY3wbMCnYJgKkqmXASoEkWl4EkOd2QtUQybJf-UCYyvpj0ipOwNUihikKxMvfILUeRWYEanYf74PS8tZ_eHu5F4r8DqfNpyLFx1PizzvHcgr3dm3AZZV1pmu1CB5eOdC8hkibknV53tFBLMFLwMMQKaR0pkMJCWuhKlU574hLDFKRwENc3Pgf1tjlYti-5ILYU2VmkYb8N_pHWOIsgOLc2-4Ss-O-lttwB9sFDuIcVH_OAPHHSMLjR6qiQI_wSvPHQfMzMNfIguyXsk00WQjkanX28iL7_f0ymeE0D2z1cgJFLDk0DMuqZLW_LmKQcuysVjeF58NP-k2LsTP6qnZDDfk8NUMlAfh-gvaPUyRvqiVIApcDMPnvVL9tyRNd1uYtOu4ebxFTwpZNItJH3K8KBu1jZbT1TTr-A5_0M76XIMjaMXEHw4uI6b1z2jj4D-BCfbKdkLCKWLc-9ixEtGLIspxRT-KVXaT21n4vTwXrav3XYdZBe9KlS1Rn06r2jGpRkhdW2hzzzdSaWpDllob3N_MUUG9RorSIJasdaD_LXr0kdqKre-0NTLd2pqeHKj3PE_FatMe3-tenaS51pSZ5ZZpVsrNT0i4E6P=w1103-h852-no?authuser=0)
